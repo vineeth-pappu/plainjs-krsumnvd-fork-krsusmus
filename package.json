@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/vineeth-pappu.plainjs-krsumnvd-fork-krsusmus",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "wcd-cli serve GNHio5uJl2MSsY9igqeE --open"
+  }
+}
